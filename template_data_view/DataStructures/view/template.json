@@ -1,0 +1,25 @@
+{
+    "name":"Relational Database View",
+    "description":"Relational database view template",
+    "image":"view.png",
+    "sources":[{
+        "name":"view.view",
+        "action":"generate"
+    }],
+    "parameters":[{
+        "name":"templateType",
+        "required":"true"
+    }, {
+        "name":"fileName",
+        "required":"true"
+    }, {
+        "name":"projectName",
+        "required":"true"
+    }, {
+        "name":"packageName",
+        "required":"true"
+    }, {
+        "name":"query",
+        "required":"true"
+    }]
+}
