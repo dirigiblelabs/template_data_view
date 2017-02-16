@@ -4,7 +4,9 @@
     "image":"view.png",
     "sources":[{
         "name":"view.view",
-        "action":"generate"
+        "rootFolder":"DataStructures",
+        "action":"generate",
+        "rename":"%s"
     }],
     "parameters":[{
         "name":"templateType",
