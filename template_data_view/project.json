@@ -1,0 +1,8 @@
+{
+    "guid":"template_data_view",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_data_view.git"
+    }
+}
